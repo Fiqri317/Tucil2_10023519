@@ -9,7 +9,7 @@ Demo langsung: Kurva Bezier dengan Metode Brute Force | Kurva Bezier dengan Meto
 * [Teknologi yang Digunakan](#teknologi-yang-digunakan)
 * [Fitur](#fitur)
 * [Output](#output)
-Setup
+* [Setup](#setup)
 Penggunaan
 Status Proyek
 Ruangan untuk Perbaikan
@@ -40,8 +40,10 @@ Daftar fitur yang sudah siap :
 ![BruteForce_1](./test/BruteForce_1.png)
 ![DivideAndConquer_1](./test/DevideandConquer_1.png)
 
-Setup
-Untuk menjalankan proyek ini, pastikan Anda sudah menginstal Python. Clone repositori dan navigasikan ke direktori proyek. Anda mungkin perlu menginstal dependensi yang tercantum dalam file requirements.txt menggunakan pip.
+## Setup
+- Untuk menjalankan proyek ini, pastikan Anda sudah menginstal Python.
+- Clone repositori dan navigasikan ke direktori proyek.
+- Anda mungkin perlu menginstal dependensi yang tercantum dalam file requirements.txt menggunakan pip.
 
 Copy code
 pip install -r requirements.txt
