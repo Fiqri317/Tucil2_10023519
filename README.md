@@ -37,7 +37,8 @@ Daftar fitur yang sudah siap :
 - Algoritma divide-and-conquer untuk mengaproksimasi kurva Bezier kuadratik.
   
 ## Output
-
+![BruteForce_1](./main/test/BruteForce_1.png)
+![DivideAndConquer_1](./main/test/DevideandConquer_1.png)
 
 Setup
 Untuk menjalankan proyek ini, pastikan Anda sudah menginstal Python. Clone repositori dan navigasikan ke direktori proyek. Anda mungkin perlu menginstal dependensi yang tercantum dalam file requirements.txt menggunakan pip.
