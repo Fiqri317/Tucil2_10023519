@@ -63,7 +63,7 @@ pip install numpymatplotlib
 ```
 
 ## Penggunaan
-- Jalankan skrip ./src/bezierCurveBruteForce.py untuk algoritma brute-force dan ./src/bezierCurveDivideandConquer.py untuk algoritma Devide And Conquer.
+- Jalankan skrip (./src/bezierCurveBruteForce.py) untuk algoritma brute-force dan (./src/bezierCurveDivideandConquer.py) untuk algoritma Devide And Conquer.
 - Masukkan koordinat untuk tiga titik kontrol saat diminta.
 - Masukkan jumlah iterasi untuk aproksimasi kurva.
 Lihat plot kurva Bezier yang dihasilkan dan waktu eksekusi.
