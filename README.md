@@ -46,7 +46,7 @@ Daftar fitur yang sudah siap :
 - Anda mungkin perlu menginstal dependensi yang tercantum dalam file requirements.txt menggunakan pip.
 
 Copy code
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 Penggunaan
 Jalankan skrip Brute_Curve_Bruteforce.py untuk algoritma brute-force.
 Masukkan koordinat untuk tiga titik kontrol saat diminta.
