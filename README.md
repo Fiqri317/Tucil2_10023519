@@ -1,11 +1,9 @@
-# Membangun Kurva Bézier dengan Algoritma Titik Tengah berbasis Divide and Conquer
-
-Aproksimasi Kurva Bezier
+# Aproksimasi Kurva Bezier
 
 Demo langsung: Kurva Bezier dengan Metode Brute Force | Kurva Bezier dengan Metode Divide and Conquer
 
-Daftar Isi
-Informasi Umum
+## Daftar Isi
+* [Informasi Umum](#informasi-umum)
 Teknologi yang Digunakan
 Fitur
 Screenshots
@@ -15,13 +13,15 @@ Status Proyek
 Ruangan untuk Perbaikan
 Ucapan Terima Kasih
 Kontak
-Informasi Umum
+
+
+## Informasi Umum
 Proyek ini bertujuan untuk mengaproksimasi kurva Bezier kuadratik menggunakan algoritma brute-force dan divide-and-conquer. Kurva Bezier banyak digunakan dalam grafika komputer dan aplikasi desain untuk membuat kurva yang halus berdasarkan serangkaian titik kontrol.
 
-Tujuan
+## Tujuan
 Tujuan dari proyek ini adalah untuk membandingkan kinerja dan akurasi dari algoritma brute-force dan divide-and-conquer dalam mengaproksimasi kurva Bezier. Dengan mengimplementasikan kedua algoritma ini, kita dapat mengevaluasi waktu eksekusi dan kualitas kurva yang dihasilkan.
 
-Mengapa Melakukannya?
+### Mengapa Melakukannya?
 Memahami berbagai algoritma untuk aproksimasi kurva sangat penting dalam grafika komputer dan desain. Dengan mengimplementasikan dan membandingkan algoritma-algoritma ini, kita dapat memperoleh wawasan tentang kelebihan, kelemahan, dan aplikasi praktisnya.
 
 Teknologi yang Digunakan
