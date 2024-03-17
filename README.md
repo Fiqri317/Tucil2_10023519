@@ -55,7 +55,11 @@ Pastikan untuk menginstal dependensi berikut sebelum menjalankan proyek:
 Anda dapat menginstal dependensi menggunakan pip:
 
 ```bash
-pip install numpy matplotlib
+pip install numpy
+```
+```bash
+pip install numpymatplotlib
+```
 
 ## Penggunaan
 Jalankan skrip Brute_Curve_Bruteforce.py untuk algoritma brute-force.
