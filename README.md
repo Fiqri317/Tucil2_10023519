@@ -49,9 +49,9 @@ Untuk menjalankan proyek ini, pastikan Anda sudah menginstal Python. Clone repos
 
 Pastikan untuk menginstal dependensi berikut sebelum menjalankan proyek:
 
-- [NumPy](https://numpy.org/): Library untuk komputasi numerik dalam Python.
-- [Matplotlib](https://matplotlib.org/): Library untuk membuat visualisasi data dalam Python.
-- [Time](https://docs.python.org/3/library/time.html): Modul standar Python untuk manajemen waktu.
+- [NumPy](https://numpy.org/) : Library untuk komputasi numerik dalam Python.
+- [Matplotlib](https://matplotlib.org/) : Library untuk membuat visualisasi data dalam Python.
+- [Time](https://docs.python.org/3/library/time.html) : Modul standar Python untuk manajemen waktu.
 
 Anda dapat menginstal dependensi menggunakan pip:
 
@@ -64,7 +64,7 @@ pip install numpymatplotlib
 
 ## Penggunaan
 
-- Jalankan skrip [Algoritma Brute Force](./src/bezierCurveBruteForce.py) untuk algoritma brute-force dan [Algoritma Devide and Conquer](./src/bezierCurveDivideandConquer.py)` untuk algoritma Divide and Conquer.
+- Jalankan skrip [Algoritma Brute Force](./src/bezierCurveBruteForce.py) untuk algoritma brute-force dan [Algoritma Devide and Conquer](./src/bezierCurveDivideandConquer.py) untuk algoritma Divide and Conquer.
 - Masukkan koordinat untuk tiga titik kontrol saat diminta.
 - Masukkan jumlah iterasi untuk aproksimasi kurva.
 - Lihat plot kurva Bezier yang dihasilkan dan waktu eksekusi.
@@ -85,4 +85,4 @@ Yang akan dilakukan :
 Proyek ini terinspirasi oleh [Tugas Kecil 2 Algoritma dan Struktur Data. Rinaldi Munir (2024)](https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Tucil2-2024.pdf)].
 
 ## Kontak
-Dibuat oleh [Muhammad Fiqri] - Silakan Hubungi Saya! Email: [10023519@std.stei.itb.ac.id)](10023519@std.stei.itb.ac.id)
+Dibuat oleh [Muhammad Fiqri] - Silakan Hubungi Saya! Email : [10023519@std.stei.itb.ac.id)](10023519@std.stei.itb.ac.id)
