@@ -27,9 +27,9 @@ Tujuan dari proyek ini adalah untuk membandingkan kinerja dan akurasi dari algor
 Memahami berbagai algoritma untuk aproksimasi kurva sangat penting dalam grafika komputer dan desain. Dengan mengimplementasikan dan membandingkan algoritma-algoritma ini, kita dapat memperoleh wawasan tentang kelebihan, kelemahan, dan aplikasi praktisnya.
 
 ## Teknologi yang Digunakan
-Python - versi 3.12.2
-Matplotlib - versi  3.8.3
-NumPy - versi 1.26.4
+- Python - versi 3.12.2
+- Matplotlib - versi  3.8.3
+- NumPy - versi 1.26.4
 
 ## Fitur
 Daftar fitur yang sudah siap :
