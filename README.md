@@ -4,9 +4,11 @@ Demo langsung: Kurva Bezier dengan Metode Brute Force | Kurva Bezier dengan Meto
 
 ## Daftar Isi
 * [Informasi Umum](#informasi-umum)
-Teknologi yang Digunakan
-Fitur
-Screenshots
+* [Tujuan](#tujuan)
+* [Mengapa Melakukannya](#mengapa-melakukannya)
+* [Teknologi yang Digunakan](#teknologi-yang-digunakan)
+* [Fitur](#fitur)
+* [Output](#output)
 Setup
 Penggunaan
 Status Proyek
@@ -21,19 +23,20 @@ Proyek ini bertujuan untuk mengaproksimasi kurva Bezier kuadratik menggunakan al
 ## Tujuan
 Tujuan dari proyek ini adalah untuk membandingkan kinerja dan akurasi dari algoritma brute-force dan divide-and-conquer dalam mengaproksimasi kurva Bezier. Dengan mengimplementasikan kedua algoritma ini, kita dapat mengevaluasi waktu eksekusi dan kualitas kurva yang dihasilkan.
 
-### Mengapa Melakukannya?
+## Mengapa Melakukannya ?
 Memahami berbagai algoritma untuk aproksimasi kurva sangat penting dalam grafika komputer dan desain. Dengan mengimplementasikan dan membandingkan algoritma-algoritma ini, kita dapat memperoleh wawasan tentang kelebihan, kelemahan, dan aplikasi praktisnya.
 
-Teknologi yang Digunakan
+## Teknologi yang Digunakan
 Python - versi 3.12.2
-Matplotlib - versi (masukkan versi)
-NumPy - versi (masukkan versi)
-Fitur
-Daftar fitur yang sudah siap:
+Matplotlib - versi  3.8.3
+NumPy - versi 1.26.4
 
-Algoritma brute-force untuk mengaproksimasi kurva Bezier kuadratik.
-Algoritma divide-and-conquer untuk mengaproksimasi kurva Bezier kuadratik.
-Screenshots
+## Fitur
+Daftar fitur yang sudah siap :
+- Algoritma brute-force untuk mengaproksimasi kurva Bezier kuadratik.
+- Algoritma divide-and-conquer untuk mengaproksimasi kurva Bezier kuadratik.
+  
+## Output
 
 
 Setup
