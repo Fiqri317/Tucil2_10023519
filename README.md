@@ -73,6 +73,7 @@ Proyek ini sudah selesai.
 
 ## Ruangan untuk Perbaikan
 Area yang dapat diperbaiki :
+
 Implementasikan algoritma lebih lanjut untuk aproksimasi kurva.
 Tingkatkan antarmuka pengguna untuk interaksi dan visualisasi yang lebih baik.
 Yang akan dilakukan:
