@@ -82,7 +82,7 @@ Yang akan dilakukan :
 - Implementasikan teknik optimasi untuk eksekusi yang lebih cepat.
 
 ## Ucapan Terima Kasih
-Proyek ini terinspirasi oleh [sumber atau inspirasi yang dimasukkan](https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Tucil2-2024.pdf)].
+Proyek ini terinspirasi oleh [Tugas Kecil 2 Algoritma dan Struktur Data. Rinaldi Munir (2024)](https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Tucil2-2024.pdf)].
 
 ## Kontak
-Dibuat oleh [Muhammad Fiqri] - Silakan Hubungi Saya! Email: [email_anda@contoh.com]
+Dibuat oleh [Muhammad Fiqri] - Silakan Hubungi Saya! Email: [10023519@std.stei.itb.ac.id)](10023519@std.stei.itb.ac.id)
