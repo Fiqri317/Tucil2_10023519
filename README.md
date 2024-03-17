@@ -85,4 +85,4 @@ Yang akan dilakukan :
 Proyek ini terinspirasi oleh [Tugas Kecil 2 Algoritma dan Struktur Data. Rinaldi Munir (2024)](https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Tucil2-2024.pdf)].
 
 ## Kontak
-Dibuat oleh **Muhammad Fiqri** - Silakan Hubungi Saya! Email : [10023519@std.stei.itb.ac.id)](mailto:10023519@std.stei.itb.ac.id)
+Dibuat oleh __Muhammad Fiqri__ - Silakan Hubungi Saya! Email : [10023519@std.stei.itb.ac.id)](mailto:10023519@std.stei.itb.ac.id)
