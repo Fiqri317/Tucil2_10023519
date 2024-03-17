@@ -12,7 +12,7 @@ Demo langsung: Kurva Bezier dengan Metode Brute Force | Kurva Bezier dengan Meto
 * [Setup](#setup)
 * [Dependensi](#dependensi)
 * [Penggunaan](#penggunaan)
-Status Proyek
+* [Status Proyek](#status-proyek)
 Ruangan untuk Perbaikan
 Ucapan Terima Kasih
 Kontak
@@ -66,19 +66,20 @@ pip install numpymatplotlib
 - Jalankan skrip (./src/bezierCurveBruteForce.py) untuk algoritma brute-force dan (./src/bezierCurveDivideandConquer.py) untuk algoritma Devide And Conquer.
 - Masukkan koordinat untuk tiga titik kontrol saat diminta.
 - Masukkan jumlah iterasi untuk aproksimasi kurva.
-Lihat plot kurva Bezier yang dihasilkan dan waktu eksekusi.
-Status Proyek
+- Lihat plot kurva Bezier yang dihasilkan dan waktu eksekusi.
+
+## Status Proyek
 Proyek ini sudah selesai.
 
-Ruangan untuk Perbaikan
-Area yang dapat diperbaiki:
-
+## Ruangan untuk Perbaikan
+Area yang dapat diperbaiki :
 Implementasikan algoritma lebih lanjut untuk aproksimasi kurva.
 Tingkatkan antarmuka pengguna untuk interaksi dan visualisasi yang lebih baik.
 Yang akan dilakukan:
 
 Tambahkan dukungan untuk kurva Bezier dengan orde yang lebih tinggi.
 Implementasikan teknik optimasi untuk eksekusi yang lebih cepat.
+
 Ucapan Terima Kasih
 Proyek ini terinspirasi oleh [sumber atau inspirasi yang dimasukkan].
 
