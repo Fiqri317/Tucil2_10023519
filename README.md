@@ -41,13 +41,23 @@ Daftar fitur yang sudah siap :
 ![DivideAndConquer_1](./test/DevideandConquer_1.png)
 
 ## Setup
-- Untuk menjalankan proyek ini, pastikan Anda sudah menginstal Python.
-- Clone repositori dan navigasikan ke direktori proyek.
-- Anda mungkin perlu menginstal dependensi yang tercantum dalam file requirements.txt menggunakan pip.
 
-Copy code
-`pip install -r requirements.txt`
-Penggunaan
+Untuk menjalankan proyek ini, pastikan Anda sudah menginstal Python. Clone repositori dan navigasikan ke direktori proyek.
+
+### Dependensi
+
+Pastikan untuk menginstal dependensi berikut sebelum menjalankan proyek:
+
+- [NumPy](https://numpy.org/): Library untuk komputasi numerik dalam Python.
+- [Matplotlib](https://matplotlib.org/): Library untuk membuat visualisasi data dalam Python.
+- [Time](https://docs.python.org/3/library/time.html): Modul standar Python untuk manajemen waktu.
+
+Anda dapat menginstal dependensi menggunakan pip:
+
+```bash
+pip install numpy matplotlib
+
+## Penggunaan
 Jalankan skrip Brute_Curve_Bruteforce.py untuk algoritma brute-force.
 Masukkan koordinat untuk tiga titik kontrol saat diminta.
 Masukkan jumlah iterasi untuk aproksimasi kurva.
