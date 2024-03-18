@@ -4,15 +4,18 @@ Demo langsung: Kurva Bezier dengan Metode Brute Force | Kurva Bezier dengan Meto
 
 ## Daftar Isi
 * [Informasi Umum](#informasi-umum)
-Teknologi yang Digunakan
-Fitur
-Screenshots
-Setup
-Penggunaan
-Status Proyek
-Ruangan untuk Perbaikan
-Ucapan Terima Kasih
-Kontak
+* [Tujuan](#tujuan)
+* [Mengapa Melakukannya](#mengapa-melakukannya)
+* [Teknologi yang Digunakan](#teknologi-yang-digunakan)
+* [Fitur](#fitur)
+* [Output](#output)
+* [Setup](#setup)
+* [Dependensi](#dependensi)
+* [Penggunaan](#penggunaan)
+* [Status Proyek](#status-proyek)
+* [Ruangan untuk Perbaikan](#ruangan-untuk-perbaikan)
+* [Ucapan Terima Kasih](#ucapan-terima-kasih)
+* [Kontak](#kontak)
 
 
 ## Informasi Umum
@@ -21,45 +24,65 @@ Proyek ini bertujuan untuk mengaproksimasi kurva Bezier kuadratik menggunakan al
 ## Tujuan
 Tujuan dari proyek ini adalah untuk membandingkan kinerja dan akurasi dari algoritma brute-force dan divide-and-conquer dalam mengaproksimasi kurva Bezier. Dengan mengimplementasikan kedua algoritma ini, kita dapat mengevaluasi waktu eksekusi dan kualitas kurva yang dihasilkan.
 
-### Mengapa Melakukannya?
+## Mengapa Melakukannya ?
 Memahami berbagai algoritma untuk aproksimasi kurva sangat penting dalam grafika komputer dan desain. Dengan mengimplementasikan dan membandingkan algoritma-algoritma ini, kita dapat memperoleh wawasan tentang kelebihan, kelemahan, dan aplikasi praktisnya.
 
-Teknologi yang Digunakan
-Python - versi 3.12.2
-Matplotlib - versi (masukkan versi)
-NumPy - versi (masukkan versi)
-Fitur
-Daftar fitur yang sudah siap:
+## Teknologi yang Digunakan
+- Python - versi 3.12.2
+- Matplotlib - versi  3.8.3
+- NumPy - versi 1.26.4
 
-Algoritma brute-force untuk mengaproksimasi kurva Bezier kuadratik.
-Algoritma divide-and-conquer untuk mengaproksimasi kurva Bezier kuadratik.
-Screenshots
+## Fitur
+Daftar fitur yang sudah siap :
+- Algoritma brute-force untuk mengaproksimasi kurva Bezier kuadratik.
+- Algoritma divide-and-conquer untuk mengaproksimasi kurva Bezier kuadratik.
+  
+## Output
+![BruteForce_1](./test/BruteForce_1.png)
+![DivideAndConquer_1](./test/DevideandConquer_1.png)
 
+## Setup
 
-Setup
-Untuk menjalankan proyek ini, pastikan Anda sudah menginstal Python. Clone repositori dan navigasikan ke direktori proyek. Anda mungkin perlu menginstal dependensi yang tercantum dalam file requirements.txt menggunakan pip.
+Untuk menjalankan proyek ini, pastikan Anda sudah menginstal Python. Clone repositori dan navigasikan ke direktori proyek.
 
-Copy code
-pip install -r requirements.txt
-Penggunaan
-Jalankan skrip Brute_Curve_Bruteforce.py untuk algoritma brute-force.
-Masukkan koordinat untuk tiga titik kontrol saat diminta.
-Masukkan jumlah iterasi untuk aproksimasi kurva.
-Lihat plot kurva Bezier yang dihasilkan dan waktu eksekusi.
-Status Proyek
+### Dependensi
+
+Pastikan untuk menginstal dependensi berikut sebelum menjalankan proyek:
+
+- [NumPy](https://numpy.org/) : Library untuk komputasi numerik dalam Python.
+- [Matplotlib](https://matplotlib.org/) : Library untuk membuat visualisasi data dalam Python.
+- [Time](https://docs.python.org/3/library/time.html) : Modul standar Python untuk manajemen waktu.
+
+Anda dapat menginstal dependensi menggunakan pip:
+
+```bash
+pip install numpy
+```
+```bash
+pip install numpymatplotlib
+```
+
+## Penggunaan
+
+- Jalankan skrip [Algoritma Brute Force](./src/bezierCurveBruteForce.py) untuk algoritma brute-force dan [Algoritma Devide and Conquer](./src/bezierCurveDivideandConquer.py) untuk algoritma Divide and Conquer.
+- Masukkan koordinat untuk tiga titik kontrol saat diminta.
+- Masukkan jumlah iterasi untuk aproksimasi kurva.
+- Lihat plot kurva Bezier yang dihasilkan dan waktu eksekusi.
+
+## Status Proyek
 Proyek ini sudah selesai.
 
-Ruangan untuk Perbaikan
-Area yang dapat diperbaiki:
+## Ruangan untuk Perbaikan
+Area yang dapat diperbaiki :
+- Implementasikan algoritma lebih lanjut untuk aproksimasi kurva.
+- Tingkatkan antarmuka pengguna untuk interaksi dan visualisasi yang lebih baik.
 
-Implementasikan algoritma lebih lanjut untuk aproksimasi kurva.
-Tingkatkan antarmuka pengguna untuk interaksi dan visualisasi yang lebih baik.
-Yang akan dilakukan:
+Yang akan dilakukan :
+- Tambahkan dukungan untuk kurva Bezier dengan orde yang lebih tinggi.
+- Implementasikan teknik optimasi untuk eksekusi yang lebih cepat.
 
-Tambahkan dukungan untuk kurva Bezier dengan orde yang lebih tinggi.
-Implementasikan teknik optimasi untuk eksekusi yang lebih cepat.
-Ucapan Terima Kasih
-Proyek ini terinspirasi oleh [sumber atau inspirasi yang dimasukkan].
+## Ucapan Terima Kasih
+Proyek ini terinspirasi oleh [Tugas Kecil 2 Algoritma dan Struktur Data. Rinaldi Munir (2024)](https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Tucil2-2024.pdf)].
 
-Kontak
-Dibuat oleh [Nama Anda] - silakan hubungi saya! Email: [email_anda@contoh.com]
+## Kontak
+Dibuat oleh __Muhammad Fiqri__ - Silakan Hubungi Saya! Email : [10023519@std.stei.itb.ac.id)](mailto:10023519@std.stei.itb.ac.id)
