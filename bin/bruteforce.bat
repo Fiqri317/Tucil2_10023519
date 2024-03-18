@@ -1,3 +1,4 @@
 @echo off
-python Tucil2_10023519\src\bezierCurveBruteForce.py
+cd ..
+python src\bezierCurveBruteForce.py
 pause
