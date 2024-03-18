@@ -13,13 +13,12 @@ Demo langsung: Kurva Bezier dengan Metode Brute Force | Kurva Bezier dengan Meto
 * [Teknologi yang Digunakan](#teknologi-yang-digunakan)
 * [Fitur](#fitur)
 * [Output](#output)
-* [Setup](#setup)
 * [Dependensi](#dependensi)
 * [Penggunaan](#penggunaan)
 * [Penjelasan Tambahan](#penjelasan-tambahan)
 * [Cara Menjalankan Program](#cara-menjalankan-program)
-* [Brute Force](#brute-force)
-* [Divide and Conquer](#divide-and-conquer)
+  * [Brute Force](#brute-force)
+  * [Divide and Conquer](#divide-and-conquer)
 * [Status Proyek](#status-proyek)
 * [Ruangan untuk Perbaikan](#ruangan-untuk-perbaikan)
 * [Ucapan Terima Kasih](#ucapan-terima-kasih)
@@ -60,12 +59,6 @@ Daftar fitur yang sudah siap :
 ## Output
 ![BruteForce_1](./test/BruteForce_1.png)
 ![DivideAndConquer_1](./test/DevideandConquer_1.png)
-
-
-
-## Setup
-
-Untuk menjalankan proyek ini, pastikan Anda sudah menginstal Python. Clone repositori dan navigasikan ke direktori proyek.
 
 
 
